@@ -8,7 +8,6 @@
 ### The application was build using and implementing
 HTML, CSS, and SASS
 
-** data is loaded from an external API ( "https://pokeapi.co/api/v2) **
 
 ### Application features
 * changing nav section on mobile devices
